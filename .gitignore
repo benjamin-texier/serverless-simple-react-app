@@ -1,0 +1,5 @@
+/node_modules
+.sonarlint
+/build
+package-lock.json
+yarn.lock
